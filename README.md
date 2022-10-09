@@ -1,5 +1,5 @@
 # Auto-Insurance-Fraud-Detection
-Fraud Detection using Decision Tree and Random Forest Classifier
+Fraud Detection using Decision Tree and Random Forest Classifier <br>
 HyperParameter Tuning : GridCv & RandomCV Methods
 ![git2](https://user-images.githubusercontent.com/112804900/194781654-f7e53eb4-1abd-4a87-b386-a903e3be40a0.png)
 
