@@ -13,3 +13,4 @@ Learnings : <br>
 - Dealing with categorical data : OneHotEncoder, getdummies, labelencoder
 - HyperParameter Tuning using GridSearch and RandomSearch Methods
 - Building a Random Forest Classifier
+- Model Evaluation : More focus on False Negatives
