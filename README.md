@@ -14,3 +14,7 @@ Learnings : <br>
 - HyperParameter Tuning using GridSearch and RandomSearch Methods
 - Building a Random Forest Classifier
 - Model Evaluation : More focus on False Negatives
+
+## Note
+Main Testcode : Auto Insurance Fraud Detection.ipynb <br>
+Datasets available in Data folder <br>
